@@ -40,15 +40,35 @@ https://github.com/apache/incubator-linkis/issues?q=is%3Aissue+is%3Aclosed+close
 时间周期点 
 ![img](https://incubator.apache.org/images/graduation-timeline.png)
 
+[毕业清单](https://incubator.apache.org/guides/graduation.html#graduation_check_list)
+以下是提供概述的简短清单，不能替代阅读以下内容。
+
+- 准备工作
+    - 完成（并签署）状态文件中记录的任务
+    - 确保项目名称和产品名称的合适名称
+    - 展示创建 Apache 版本的能力  
+    - 展示社区准备 
+    - 确保导师和IPMC没有遗留问题
+- 决定最终目的(顶级项目/子项目)
+- 准备一份决议 （仅限顶级候选人）。
+- 目标项目的子项目接受投票（仅限子项目候选人）
+- 孵化器 PMC (IPMC) :
+    - 对于顶级候选人，这是推荐投票
+    - 对于子项目候选人，这是毕业批准投票
+- 最终移交
+- 考虑毕业后的任务
 
 
 ### 1. 当前的季度的report，阶段是否需要调整？  
 看之前的毕业项目的report，有在再毕业最后一次才调整的为 Nearing graduation 
+```html
  Initial setup
  Working towards first release
  Community building
  Nearing graduation
  Other:
+```
+
  
 ### 2 梳理文档等名称使用问题 
 
