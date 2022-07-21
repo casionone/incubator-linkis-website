@@ -1,6 +1,6 @@
 
-[成熟度模型](maturity.md) 
-[毕业历史项目部分汇总](project-hisotry.md)
+- [Linkis成熟度模型](maturity.md) 
+- [毕业历史项目部分汇总](project-hisotry.md)
 
 ## 相关链接 
 - 成功毕业指南  https://incubator.apache.org/guides/graduation.html 
