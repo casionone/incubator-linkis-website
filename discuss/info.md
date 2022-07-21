@@ -124,6 +124,13 @@ https://issues.apache.org/jira/projects/INLONG/summary
 | **IN10** |该项目独立于任何公司或组织的影响。 |  |
 | **IN20** |贡献者以他们自己的身份行事，而不是作为公司或组织的代表。 | |
 
+### linkis的 Board Reports 只被记录的4次？ 
+
+有部分未收录显示？
+https://whimsy.apache.org/board/minutes/Linkis.html
+
+
+
 ### 待讨论问题 
 linkis 的 readme 中提及到WDS生态是否合规   https://github.com/apache/incubator-linkis 
 linkis 和 DSS 的关系 ？
