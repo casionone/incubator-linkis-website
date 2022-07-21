@@ -2,7 +2,7 @@
 - 孵化时间:2017-02-23 ~ 2021-01-20
 - 毕业讨论邮件:https://lists.apache.org/thread/9z79b2648bcxy6pw78bfhvq1jkwy0lox
 - 孵化信息: https://incubator.apache.org/projects/gobblin.html 
-反馈的问题: 
+- 反馈的问题: 
 
 
 ## Apache Ratis 
