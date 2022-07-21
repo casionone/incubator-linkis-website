@@ -3,6 +3,7 @@
 - [毕业历史项目部分汇总](project-hisotry.md)
 
 ## 相关链接 
+
 - 成功毕业指南  https://incubator.apache.org/guides/graduation.html 
 
 - 毕业清单    https://incubator.apache.org/guides/graduation.html#graduation_check_list
@@ -22,6 +23,32 @@
 - Linkis的名字申请Jira https://issues.apache.org/jira/projects/PODLINGNAMESEARCH/issues/PODLINGNAMESEARCH-192?filter=allissues
 
 - Podling 名称搜索指南 https://incubator.apache.org/guides/names.html 
+
+- 基础设施建设相关  https://infra.apache.org/ 
+
+- 提交者的常见问题 https://infra.apache.org/committers.html#mail  committer 
+
+- 贡献者CLA协议相关  https://www.apache.org/licenses/contributor-agreements.html 
+
+- 孵化和毕业项目信息  https://incubator.apache.org/projects/#graduated
+
+-  孵化器主页  https://incubator.apache.org/ 有相关的视频分享和ppt
+
+
+## Linkis相关的链接 
+- linkis-logo  https://svn.apache.org/repos/asf/comdev/project-logos/originals/
+- 项目列表 https://projects.apache.org/project.html?incubator-linkis
+- 维护IP Clearance https://svn.apache.org/repos/asf/incubator/public/trunk/content/ip-clearance/
+- Board Reports https://whimsy.apache.org/board/minutes/Linkis.html
+- Linkis的名字申请jira  https://issues.apache.org/jira/projects/PODLINGNAMESEARCH/issues/PODLINGNAMESEARCH-192?filter=allissues 
+- 项目状态文件  https://incubator.apache.org/projects/linkis.html
+- 官网合法性检查 https://whimsy.apache.org/pods/project/linkis
+- ppmc 邮件等信息查看 https://whimsy.apache.org/roster/ppmc/linkis
+- project 文件  https://svn.apache.org/repos/asf/incubator/public/trunk/content/projects/linkis.xml 
+- podling 文件 https://svn.apache.org/repos/asf/incubator/public/trunk/content/podlings/linkis.yml
+- clutch  https://incubator.apache.org/clutch/linkis.html
+
+
 
 
 - 查看某段时间内的提交用户  
@@ -170,6 +197,11 @@ https://whimsy.apache.org/board/minutes/Linkis.html
     - 如只是提issue 1~2天回复跟进 
     - 如果时QA文档 时效 1周
  
+
+
+
+
+
 
 
 
