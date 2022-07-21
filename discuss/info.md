@@ -70,7 +70,7 @@ https://github.com/apache/incubator-linkis/issues?q=is%3Aissue+is%3Aclosed+close
 ```
 
  
-### 2 梳理文档等名称使用问题 
+### 2. 梳理文档等名称使用问题 
 
 符合商标规范 https://www.apache.org/foundation/marks/guide
 官网/仓库等主要位置用全名 Apache Linkis
@@ -81,7 +81,7 @@ https://github.com/apache/incubator-linkis/issues?q=is%3Aissue+is%3Aclosed+close
  
 
 
-### 3 描述是否需要精简  
+### 3. 描述是否需要精简  
 之前毕业的项目，提到了关于项目描述需要简洁明了  
 ```html
 Linkis builds a computation middleware layer to decouple the upper applications and the underlying data engines, 
@@ -91,7 +91,7 @@ while enables cross engine context sharing, unified job& engine governance and o
 
 Linkis 描述是否还需要精简(WebSocket/JDBC 接口 是否移除 ?)
 
-### Linkis 名字的合法性  
+### 4. Linkis 名字的合法性  
 https://incubator.apache.org/guides/names.html 
 足够独特的名称:该名称需要足够独特以避免与已经存在的软件混淆。为了使社区能够保护其在质量和开放性方面的声誉，其名称需要足够独特以具有作为商标的潜力。
 
@@ -100,19 +100,19 @@ https://issues.apache.org/jira/projects/PODLINGNAMESEARCH/issues/PODLINGNAMESEAR
 重新按合法性检查 再做一次
 
 
-### cwiki的创建 confluence 
+### 5. cwiki的创建 confluence 
 https://cwiki.apache.org/confluence/display/ 的创建   
 有必要创建  主要同步下 记录双周例会/LKIP/ 发布流程/成熟度模型 
 参考 doris https://cwiki.apache.org/confluence/display/DORIS/Home 
 
-### jira问题跟踪 
+### 6. jira问题跟踪 
  
 部分项目也未创建 如 Shenyu DolphinScheduler  
 目前不一定需要
 https://issues.apache.org/jira/projects/INLONG/summary
 
 
-### 开放和多元化的社区
+### 7. 开放和多元化的社区
 
 如果取贡献者前30%数据，按提交数: 30人中 10人非微众 
 
@@ -128,11 +128,11 @@ https://issues.apache.org/jira/projects/INLONG/summary
 这表明不够多样化。您可以通过向您的项目接纳更多与单个实体无关的外部贡献者来缓解此要求。
 ```
 
-### 前端贡献者 
+### 8. 前端贡献者 
 
 目前社区除了 陆小龙 暂时无其它贡献人员 
 
-### 成熟度模型 需关注事项 
+### 9. 成熟度模型 需关注事项 
 
 |  **ID** | **描述** | **状态** |
 | -------- | ----- | ---------- |
@@ -144,31 +144,32 @@ https://issues.apache.org/jira/projects/INLONG/summary
 | **IN10** |该项目独立于任何公司或组织的影响。 |  |
 | **IN20** |贡献者以他们自己的身份行事，而不是作为公司或组织的代表。 | |
 
-### linkis的 Board Reports 只被记录的4次？ 
+### 10. linkis的 Board Reports 只被记录的4次？ 
 
 有部分未收录显示？
+
 https://whimsy.apache.org/board/minutes/Linkis.html
 
 
+### 11. 和mentor导师咨询了解是否可以毕业 
+当前存在的问题，会被挑战的点和社区需要重点关注是事项等
+ 
+### 12. 待讨论问题 
+- linkis 的 readme 中提及到WDS生态是否合规   https://github.com/apache/incubator-linkis 
+- linkis 和 DSS 的关系 ？
 
-### 待讨论问题 
-linkis 的 readme 中提及到WDS生态是否合规   https://github.com/apache/incubator-linkis 
-linkis 和 DSS 的关系 ？
-
-邮件列表的使用，issue的使用:
-我们使用腾讯doc记录是否与Apache Way不太符合，太低的用户QA门槛,无法沉淀和过滤掉有效用户。
+- 邮件列表的使用，issue的使用
+-  我们使用腾讯doc记录是否与Apache Way不太符合，太低的用户QA门槛,无法沉淀和过滤掉有效用户
 
 尝试使用比较积极的方式引导用户使用邮件，仅限Linkis部分？
 
 当前邮件发送的每日社区讨论 也主要是微众rita和andy再负责，是否需要更多的社区者参与进来 
 
-引导政策？
-- 如用邮件问题 1天內回复跟进 
-- 如只是提issue 1~2天回复跟进 
-- 如果时QA文档 时效 1周
+- 引导政策？
+    - 如用邮件问题 1天內回复跟进 
+    - 如只是提issue 1~2天回复跟进 
+    - 如果时QA文档 时效 1周
  
-### 和mentor导师了解是否可以毕业 
-会被挑战的点和社区需要重点关注是事项 
 
 
 
