@@ -146,7 +146,7 @@ The following table is filled according to the [Apache Maturity Model](https://c
 |  **ID** | **描述** | **状态** |
 | -------- | ----- | ---------- |
 | **CO10** |该项目有一个主页，其中指向了根据此成熟度模型进行操作所需的所有信息。 | **YES** [网站](https://linkis.apache.org/) 包含用户运行 Apache Linkis 所需的所有信息。 |
-| **二氧化碳** |社区欢迎任何以诚信和尊重的方式行事并为项目增加价值的人的贡献。 | **YES** Apache Linkis 提供 [代码提交指南](http://linkis.incubator.apache.org/community/pull-request.html) 并欢迎所有好的贡献。 |
+| **CO20** |社区欢迎任何以诚信和尊重的方式行事并为项目增加价值的人的贡献。 | **YES** Apache Linkis 提供 [代码提交指南](http://linkis.incubator.apache.org/community/pull-request.html) 并欢迎所有好的贡献。 |
 | **CO30** |贡献包括源代码、文档、建设性的错误报告、建设性的讨论、营销以及通常为项目增加价值的任何东西。 | **YES**欢迎所有好的贡献，包括代码和非代码。 |
 | **CO40** |社区努力做到任人唯贤，并为随着时间的推移为项目增加价值的贡献者赋予更多的权利和责任。 | **YES** 到目前为止，社区已经选出了 12 名新的提交者。 |
 | **CO50** |该项目记录了贡献者如何获得更多权利，例如提交访问权或决策权，并始终如一地应用这些原则。 | **YES** 附上文档 [committer guide](https://linkis.apache.org/community/how-to-contribute)。 |
