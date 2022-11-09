@@ -71,37 +71,15 @@ linkis-engineconn-plugins/
 │       └── 7.6.2
 ```
 ### 2.3 引擎刷新
-#### 2.3.1 刷新单个引擎 
-引擎支持实时刷新单个引擎，引擎放置到对应目录后，通过http接口向`linkis-cg-linkismanager` 服务发送刷新请求即可。
 
-- 接口 `http://${engineconn-plugin-server-IP}:${port}/api/rest_j/v1/engineplugin/refresh`
-- 请求数据类型 `application/x-www-form-urlencoded`
-
-- 请求方式 `GET`
-- 请求参数
-
-```json
-{
-  "ecType": "elasticsearch",
-  "version":"v7.6.2"
-}
-```
-
-#### 2.3.2 刷新所有引擎
-引擎支持实时刷新所有引擎，引擎放置到对应目录后，通过http接口向`linkis-cg-linkismanager` 服务发送刷新请求即可。
-- 接口 `http://${engineconn-plugin-server-IP}:${port}/api/rest_j/v1/engineplugin/refreshAll`
-- 请求数据类型 `application/x-www-form-urlencoded`
-- 请求方式 `GET`
-- 请求参数 暂无
-
-#### 2.3.3 重启刷新
+#### 2.3.1 重启刷新
 通过重启 linkis-cg-linkismanager 服务，也可强制刷新所有引擎
 ```bash
 cd ${LINKIS_HOME}/sbin
 sh linkis-daemon.sh restart cg-linkismanager
 ```
 
-### 2.3.4 检查引擎是否刷新成功
+### 2.3.2 检查引擎是否刷新成功
 可以查看数据库中的linkis_engine_conn_plugin_bml_resources这张表的last_update_time是否为触发刷新的时间。
 
 ```sql
