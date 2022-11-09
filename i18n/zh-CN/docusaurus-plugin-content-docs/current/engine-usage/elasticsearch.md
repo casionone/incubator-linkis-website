@@ -73,7 +73,7 @@ linkis-engineconn-plugins/
 ### 2.3 引擎刷新
 
 #### 2.3.1 重启刷新
-通过重启 linkis-cg-linkismanager 服务，也可强制刷新所有引擎
+通过重启 linkis-cg-linkismanager 服务刷新引擎
 ```bash
 cd ${LINKIS_HOME}/sbin
 sh linkis-daemon.sh restart cg-linkismanager
