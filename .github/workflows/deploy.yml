@@ -29,6 +29,7 @@ jobs:
           use-quiet-mode: 'no'
           use-verbose-mode: 'yes'
           folder-path: '../'
+          file-path: './README.md, ./README_ZH.md, ./maturity.md'
 
       - name: install
         run: |
