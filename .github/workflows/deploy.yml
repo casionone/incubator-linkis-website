@@ -23,7 +23,13 @@ jobs:
       - uses: actions/setup-node@v2.2.0
         with:
           node-version: 14
-          
+
+      - uses: gaurav-nelson/github-action-markdown-link-check@v1
+          with:
+            use-quiet-mode: 'no'
+            use-verbose-mode: 'yes'
+            folder-path: '../'
+
       - name: install
         run: |
           npm install
@@ -32,11 +38,12 @@ jobs:
           npm run build
           cp .asf.yaml build
           cp .htaccess build
-          cp doap.rdf build   
+          cp doap.rdf build
+
       - name: Link checker
         uses: untitaker/hyperlink@0.1.21
         with:
-          args: build  maturity.md
+          args: build  ./maturity.md
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
         if: github.event_name == 'push' && startsWith(github.ref, 'refs/heads/dev')
