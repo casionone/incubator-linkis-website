@@ -10,7 +10,7 @@ Mentors and community members are encouraged to contribute to this page and comm
 
 - :white_check_mark: means that the related item is in good status.
 - :white_large_square: means that the related item need long-term attention.
-- :x: means that the related item need to be fixed ASAP.
+- :x: means that the related item need to be fixed as soon as possible.
 
 
 ## Maturity model assessment
