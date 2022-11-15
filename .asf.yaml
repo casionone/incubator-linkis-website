@@ -23,6 +23,12 @@ github:
   labels:
     - linkis
     - website
+  collaborators:
+    - aiceflower
+    - brucedchen1991
+    - binbinCheng
+    - ws00428637
+    - yyuser5201314
 notifications:
   commits: commits@linkis.apache.org
   issues: commits@linkis.apache.org
